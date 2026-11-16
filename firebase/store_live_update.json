@@ -1,0 +1,124 @@
+{
+  "base_url": "https://pub-902b89e71204483092cf27a11d18d989.r2.dev/",
+  "categories": {
+    "Cell_Phones_Accessories": {
+      "enabled": true,
+      "label": "Accessories"
+    },
+    "Coupons": {
+      "enabled": true,
+      "label": "Coupons"
+    },
+    "Deals": {
+      "enabled": true,
+      "label": "Deals"
+    },
+    "Electronics": {
+      "enabled": true,
+      "label": "Electronics"
+    },
+    "Home_Kitchen": {
+      "enabled": true,
+      "label": "Home, Kitchen"
+    },
+    "Most_Popular": {
+      "enabled": true,
+      "label": "Most Popular"
+    },
+    "Newest": {
+      "enabled": true,
+      "label": "Newest"
+    }
+  },
+  "enabled": true,
+  "products": {
+    "Bedsure_GentleSoft": {
+      "category_id": "Deals",
+      "enabled": true,
+      "image_url": "products/Bedsure%20GentleSoft%20White.jpg",
+      "link": "https://amzn.to/4cC458U",
+      "name": "Bedsure GentleSoft White Throw Blanket for Couch",
+      "short_description": "DHalloween Fall Decorations for Home Living Room Decor, Cozy Fleece Fall Blanket for Sofa, Birthday Gifts for Women Mom Her, Off White, 50x60 Inches",
+      "price": "$18.99",
+      "compare_at_price": "$24.99"
+    },
+    "Bluetooth_Speaker": {
+      "category_id": "Cell_Phones_Accessories",
+      "enabled": true,
+      "image_url": "products/Bluetooth%20Speaker.jpg",
+      "link": "https://amzn.to/46UZ8Ve",
+      "name": "Bluetooth Speaker, 20W HD Sound, Portable Wireless",
+      "short_description": "IPX5 Waterproof, Up to 24H Playtime, TWS Pairing, for Home/Party/Outdoor/Camping/Beach Essentials",
+      "price": "$29.99",
+      "compare_at_price": "$39.99"
+    },
+    "Dienmern": {
+      "category_id": "Deals",
+      "enabled": true,
+      "image_url": "products/Dienmern.jpg",
+      "link": "https://amzn.to/4r6p9u2",
+      "name": "Dienmern 1X/30X Makeup Mirror with Lights",
+      "short_description": "Double-Sided, 5000mAh Rechargeable, Adjustable Brightness, 3 Colors, 360° Rotation",
+      "price": "$24.99"
+    },
+    "Hanes_Menn_Hoodie": {
+      "category_id": "Most_Popular",
+      "enabled": true,
+      "image_url": "products/Hanes%20Men's%20Hoodie.jpg",
+      "link": "https://amzn.to/4hnUXay",
+      "name": "Hanes Men's Hoodie",
+      "short_description": "EcoSmart Fleece Hooded Sweatshirt for Men & Women - Midweight Fleece - Big & Tall Available",
+      "price": "$16.98",
+      "compare_at_price": "$22.00"
+    },
+    "LANE_LINEN": {
+      "category_id": "Most_Popular",
+      "enabled": true,
+      "image_url": "products/LANE%20LINEN.jpg",
+      "link": "https://amzn.to/4gRg0lL",
+      "name": "LANE LINEN 100% Organic Cotton Twin Size Bed Sheets",
+      "short_description": "100% blackout · gentle pressure calm",
+      "price": "$34.99",
+      "compare_at_price": "$49.99"
+    },
+    "MANSPOT_Manscape_Groin": {
+      "category_id": "Coupons",
+      "enabled": true,
+      "image_url": "products/MANSPOT%20Manscape%20Groin.jpg",
+      "link": "https://amzn.to/4xRJSUZ",
+      "name": "MANSPOT Manscape Groin & Body Hair Trimmer for Men",
+      "short_description": "Replaceable Ceramic Blade, Ball Razors for Men, Manscape Kit with 4 Guards, IPX7 Waterproof",
+      "price": "$39.99"
+    },
+    "Raycon_Everyday_Bluetooth_Wireless": {
+      "category_id": "Newest",
+      "enabled": true,
+      "image_url": "products/Raycon%20Everyday%20Bluetooth%20Wireless%20Earbuds%20with%20Microphone.jpg",
+      "link": "https://amzn.to/4Ab9A8s",
+      "name": "Raycon Everyday Bluetooth Wireless Earbuds with Microphone",
+      "short_description": "Active Noise Cancelling, Sweat & Water-Resistant Earphones, Ear Buds Wireless Bluetooth",
+      "price": "$79.99",
+      "compare_at_price": "$99.99"
+    },
+    "SimplyGood_Coffee_THE_BREWER": {
+      "category_id": "Home_Kitchen",
+      "enabled": true,
+      "image_url": "products/SimplyGoodCoffee%20THE%20BREWER.jpg",
+      "link": "https://amzn.to/4iV38wc",
+      "name": "Simply Good Coffee THE BREWER",
+      "short_description": "8 Cup Automatic Drip Pour Over Coffee Brewer. Brewer Free of Plastic, Gold Cup Standard. Black/Stainless Steel",
+      "price": "$129.00",
+      "compare_at_price": "$149.00"
+    },
+    "Smart_Watch_for_Women": {
+      "category_id": "Electronics",
+      "enabled": true,
+      "image_url": "products/Smart%20Watch%20for%20Women%2C%20AnswerMake%20Call.jpg",
+      "link": "https://amzn.to/4dAXRq2",
+      "name": "Smart Watch for Women, Answer/Make Call",
+      "short_description": "Fitness Tracker with Heart Rate/Sleep/Step Monitor, Compatible with iPhone/Samsung/Android",
+      "price": "$39.99",
+      "compare_at_price": "$59.99"
+    }
+  }
+}

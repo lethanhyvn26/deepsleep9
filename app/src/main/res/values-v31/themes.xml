@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DeepSleep.Splash" parent="Theme.DeepSleep">
+        <item name="android:windowSplashScreenBackground">@color/midnight_blue</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_invisible_icon</item>
+        <item name="android:windowSplashScreenAnimationDuration">0</item>
+        <item name="android:windowBackground">@color/midnight_blue</item>
+    </style>
+</resources>

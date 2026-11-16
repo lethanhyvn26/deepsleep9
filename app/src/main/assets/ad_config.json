@@ -1,0 +1,246 @@
+{
+  "enable_Check_UA": false,
+  "app_open_splash": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/6018343853",
+    "enable_Check_UA": false
+  },
+  "inter_splash": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/5298404535",
+    "enable_Check_UA": false
+  },
+  "banner_splash": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/1577095611",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "banner_language_1": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/1657410522",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false,
+    "colorBg": "#141B30",
+    "colorCTA": "#5D4BF4"
+  },
+  "banner_language_1_click": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/2671109294",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false,
+    "colorBg": "#141B30",
+    "colorCTA": "#5D4BF4"
+  },
+  "banner_onboarding_1": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/6718165510",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false,
+    "colorBg": "#141B30",
+    "colorCTA": "#5D4BF4"
+  },
+  "banner_onboarding_2": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/3373157732",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false,
+    "colorBg": "#141B30",
+    "colorCTA": "#5D4BF4"
+  },
+  "inter_onboarding": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/5298404535",
+    "enable_Check_UA": false
+  },
+  "banner_collapsible_home": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/1577095611",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "banner_home": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/1657410522",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false,
+    "colorBg": "#171D38",
+    "colorCTA": "#5D4BF4"
+  },
+  "sounds_whitenoise_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/2671109294",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "sounds_mixes_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/6718165510",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "sounds_featured_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/3373157732",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "sounds_music_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/1657410522",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "sounds_stories_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/2671109294",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "sounds_meditation_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/6718165510",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "sounds_soundscapes_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/3373157732",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "sounds_tab_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/6718165510",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "tracker_tab_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/2671109294",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "journal_tab_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/6718165510",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "products_tab_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/3373157732",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "profile_tab_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/1657410522",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "paywall_screen_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/2671109294",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "dream_dictionary_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/6718165510",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "mix_detail_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/3373157732",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "mixer_screen_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/1657410522",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "podcard_detail_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/2671109294",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "lesson_player_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/6718165510",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "breathing_screen_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/3373157732",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "terms_screen_banner": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/1657410522",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false
+  },
+  "inter_home": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/5298404535",
+    "enable_Check_UA": false
+  },
+  "inter_back": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/5298404535",
+    "enable_Check_UA": false
+  },
+  "inter_welcome_back": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/5298404535",
+    "enable_Check_UA": false
+  },
+  "banner_all": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/3373157732",
+    "reloadIntervalSeconds": 30,
+    "collapsible": false,
+    "enable_Check_UA": false,
+    "colorBg": "#171D38",
+    "colorCTA": "#5D4BF4"
+  },
+  "rewarded_main": {
+    "isEnable": true,
+    "id": "ca-app-pub-7072665289567101/3985322861",
+    "enable_Check_UA": false
+  }
+}

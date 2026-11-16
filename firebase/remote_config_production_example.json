@@ -1,0 +1,25 @@
+{
+  "parameters": {
+    "r2_base_url": {
+      "defaultValue": {
+        "value": "https://pub-902b89e71204483092cf27a11d18d989.r2.dev/"
+      },
+      "description": "Cloudflare R2 public bucket root (direct mode). Trailing slash required.",
+      "valueType": "STRING"
+    },
+    "worker_base_url": {
+      "defaultValue": {
+        "value": "https://deepsleep-media.YOUR_SUBDOMAIN.workers.dev/"
+      },
+      "description": "Cloudflare Worker gateway root. Trailing slash required.",
+      "valueType": "STRING"
+    },
+    "use_worker_routes": {
+      "defaultValue": {
+        "value": "false"
+      },
+      "description": "false = direct R2 delivery via r2_base_url; true = Worker delivery via worker_base_url + /files/{path}.",
+      "valueType": "BOOLEAN"
+    }
+  }
+}

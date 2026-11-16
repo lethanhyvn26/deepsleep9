@@ -1,0 +1,101 @@
+{
+  "shop": {
+    "enabled": true,
+    "categories": {
+      "sleep_aids": {
+        "label": "Sleep Aids",
+        "sort_index": 0,
+        "enabled": true
+      },
+      "audio_gear": {
+        "label": "Audio Gear",
+        "sort_index": 1,
+        "enabled": true
+      },
+      "wellness": {
+        "label": "Wellness",
+        "sort_index": 2,
+        "enabled": true
+      },
+      "home": {
+        "label": "Home",
+        "sort_index": 3,
+        "enabled": true
+      }
+    },
+    "products": {
+      "melatonin_gummies": {
+        "category_id": "sleep_aids",
+        "name": "Sleep Melatonin Gummies",
+        "short_description": "Fall asleep faster — sugar-free night formula",
+        "image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=200&h=200&fit=crop",
+        "link": "https://www.amazon.com/s?k=melatonin+gummies+sleep",
+        "enabled": true,
+        "sort_index": 0
+      },
+      "magnesium_glycinate": {
+        "category_id": "sleep_aids",
+        "name": "Magnesium Glycinate",
+        "short_description": "Calm nights · muscle recovery support",
+        "image_url": "https://images.unsplash.com/photo-1550572017-edd951aa8f72?w=200&h=200&fit=crop",
+        "link": "https://www.amazon.com/s?k=magnesium+glycinate+sleep",
+        "enabled": true,
+        "sort_index": 1
+      },
+      "sleep_earbuds": {
+        "category_id": "audio_gear",
+        "name": "QuietSleep Earbuds",
+        "short_description": "Ultra-soft buds for side sleepers",
+        "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=200&h=200&fit=crop",
+        "link": "https://www.amazon.com/s?k=sleep+earbuds+noise+cancelling",
+        "enabled": true,
+        "sort_index": 2
+      },
+      "white_noise_machine": {
+        "category_id": "audio_gear",
+        "name": "Aura White Noise Machine",
+        "short_description": "Deep hum & rain loops for better rest",
+        "image_url": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=200&h=200&fit=crop",
+        "link": "https://www.amazon.com/s?k=white+noise+machine",
+        "enabled": true,
+        "sort_index": 3
+      },
+      "weighted_sleep_mask": {
+        "category_id": "wellness",
+        "name": "Weighted Sleep Mask",
+        "short_description": "100% blackout · gentle pressure calm",
+        "image_url": "https://images.unsplash.com/photo-1631730486572-226b1e126218?w=200&h=200&fit=crop",
+        "link": "https://www.amazon.com/s?k=weighted+sleep+mask",
+        "enabled": true,
+        "sort_index": 4
+      },
+      "sunrise_alarm": {
+        "category_id": "home",
+        "name": "Sunrise Wake Light",
+        "short_description": "Gentle dawn simulation, no harsh alarms",
+        "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=200&h=200&fit=crop",
+        "link": "https://www.amazon.com/s?k=sunrise+alarm+clock",
+        "enabled": true,
+        "sort_index": 5
+      },
+      "cooling_pillow": {
+        "category_id": "home",
+        "name": "CoolGel Sleep Pillow",
+        "short_description": "Temperature-regulating for hot sleepers",
+        "image_url": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=200&h=200&fit=crop",
+        "link": "https://www.amazon.com/s?k=cooling+gel+pillow",
+        "enabled": false,
+        "sort_index": 6
+      },
+      "blue_light_glasses": {
+        "category_id": "wellness",
+        "name": "NightGuard Blue-Light Glasses",
+        "short_description": "Reduce evening screen glare before bed",
+        "image_url": "https://images.unsplash.com/photo-1574258495973-f010dfbb5041?w=200&h=200&fit=crop",
+        "link": "https://www.amazon.com/s?k=blue+light+blocking+glasses+sleep",
+        "enabled": true,
+        "sort_index": 7
+      }
+    }
+  }
+}

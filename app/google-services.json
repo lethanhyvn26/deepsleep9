@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652225956758",
+    "project_id": "deep-sleep-a5574",
+    "storage_bucket": "deep-sleep-a5574.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652225956758:android:abe5198e72c44569282bb7",
+        "android_client_info": {
+          "package_name": "com.sleepsounds.storytelling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaoQmAceJV8jBH1hxmNOdS2tSCPmjbscc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

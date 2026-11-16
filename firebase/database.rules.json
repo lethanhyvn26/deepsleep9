@@ -1,0 +1,18 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "shop": {
+      ".read": true,
+      ".write": false
+    },
+    "store": {
+      ".read": true,
+      ".write": false
+    },
+    "content": {
+      ".read": true,
+      ".write": false
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "conditions": [],
+  "parameters": {
+    "r2_base_url": {
+      "defaultValue": {
+        "value": "https://pub-902b89e71204483092cf27a11d18d989.r2.dev/"
+      },
+      "description": "Cloudflare R2 public bucket root URL with trailing slash for direct asset delivery.",
+      "valueType": "STRING"
+    },
+    "worker_base_url": {
+      "defaultValue": {
+        "value": "https://deepsleep-media.YOUR_SUBDOMAIN.workers.dev/"
+      },
+      "description": "Cloudflare Worker gateway root URL with trailing slash (/manifest, /json/*, /files/*).",
+      "valueType": "STRING"
+    },
+    "use_worker_routes": {
+      "defaultValue": {
+        "value": "false"
+      },
+      "description": "When true, routes relative asset paths through worker_base_url + /files/{path}; when false, uses r2_base_url directly.",
+      "valueType": "BOOLEAN"
+    }
+  },
+  "parameterGroups": {},
+  "version": {
+    "versionNumber": "10",
+    "updateOrigin": "CONSOLE",
+    "updateType": "INCREMENTAL_UPDATE"
+  }
+}

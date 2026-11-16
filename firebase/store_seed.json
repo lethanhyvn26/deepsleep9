@@ -1,0 +1,88 @@
+{
+  "base_url": "https://pub-902b89e71204483092cf27a11d18d989.r2.dev/",
+  "enabled": true,
+  "categories": {
+    "audio_gear": {
+      "label": "Audio Gear",
+      "enabled": true
+    },
+    "home": {
+      "label": "Home",
+      "enabled": true
+    },
+    "sleep_aids": {
+      "label": "Health, Fitness",
+      "enabled": true
+    },
+    "wellness": {
+      "label": "Wellness",
+      "enabled": true
+    }
+  },
+  "products": {
+    "blue_light_glasses": {
+      "category_id": "sleep_aids",
+      "name": "The Ultimate Encyclopedia of Power Foods",
+      "short_description": "Unlock Holistic Health Through Traditional Chinese Medicine Wisdom & Modern Nutrition Science",
+      "image_url": "products/The%20Encyclopedia%20of%20Power%20Foods-%20Latest.jpg",
+      "link": "https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=buitho",
+      "enabled": true
+    },
+    "cooling_pillow": {
+      "category_id": "home",
+      "name": "CoolGel Sleep Pillow",
+      "short_description": "Temperature-regulating for hot sleepers",
+      "image_url": "products/cooling_pillow.jpg",
+      "link": "https://www.amazon.com/s?k=cooling+gel+pillow",
+      "enabled": false
+    },
+    "magnesium_glycinate": {
+      "category_id": "sleep_aids",
+      "name": "Magnesium Glycinate",
+      "short_description": "Calm nights · muscle recovery support",
+      "image_url": "products/magnesium_glycinate.jpg",
+      "link": "https://www.amazon.com/s?k=magnesium+glycinate+sleep",
+      "enabled": true
+    },
+    "melatonin_gummies": {
+      "category_id": "sleep_aids",
+      "name": "Sleep Melatonin Gummies",
+      "short_description": "Fall asleep faster — sugar-free night formula",
+      "image_url": "products/melatonin_gummies.jpg",
+      "link": "https://www.amazon.com/s?k=melatonin+gummies+sleep",
+      "enabled": true
+    },
+    "sleep_earbuds": {
+      "category_id": "audio_gear",
+      "name": "QuietSleep Earbuds",
+      "short_description": "Ultra-soft buds for side sleepers",
+      "image_url": "products/sleep_earbuds.jpg",
+      "link": "https://www.amazon.com/s?k=sleep+earbuds+noise+cancelling",
+      "enabled": true
+    },
+    "sunrise_alarm": {
+      "category_id": "home",
+      "name": "Sunrise Wake Light",
+      "short_description": "Gentle dawn simulation, no harsh alarms",
+      "image_url": "products/sunrise_alarm.jpg",
+      "link": "https://www.amazon.com/s?k=sunrise+alarm+clock",
+      "enabled": true
+    },
+    "weighted_sleep_mask": {
+      "category_id": "wellness",
+      "name": "Weighted Sleep Mask",
+      "short_description": "100% blackout · gentle pressure calm",
+      "image_url": "products/weighted_sleep_mask.jpg",
+      "link": "https://www.amazon.com/s?k=weighted+sleep+mask",
+      "enabled": true
+    },
+    "white_noise_machine": {
+      "category_id": "audio_gear",
+      "name": "Aura White Noise Machine",
+      "short_description": "Deep hum & rain loops for better rest",
+      "image_url": "products/white_noise_machine.jpg",
+      "link": "https://www.amazon.com/s?k=white+noise+machine",
+      "enabled": true
+    }
+  }
+}
